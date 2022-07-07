@@ -56,6 +56,7 @@ public class TransferenciaService {
 						.numeroContaOrigem(contaOrigemTransferencia.getNumeroConta())
 						.numeroContaDestino(contaOrigemTransferencia.getNumeroConta())
 						.comprovanteTransferencia(comprovanteTransferencia)
+						.isEfetivada(true)
 						.build();
 								
 				if(!isEstorno) {
