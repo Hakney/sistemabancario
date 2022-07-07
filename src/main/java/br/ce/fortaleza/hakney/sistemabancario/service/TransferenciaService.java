@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import br.ce.fortaleza.hakney.sistemabancario.VO.ContaDTO;
+import br.ce.fortaleza.hakney.sistemabancario.DTO.ContaDTO;
 import br.ce.fortaleza.hakney.sistemabancario.entity.Conta;
 import br.ce.fortaleza.hakney.sistemabancario.entity.Transferencia;
 import br.ce.fortaleza.hakney.sistemabancario.repository.ContaRepository;

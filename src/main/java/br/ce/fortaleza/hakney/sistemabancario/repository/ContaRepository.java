@@ -6,7 +6,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Repository;
 import org.springframework.web.bind.annotation.PathVariable;
 
-import br.ce.fortaleza.hakney.sistemabancario.VO.ContaDTO;
+import br.ce.fortaleza.hakney.sistemabancario.DTO.ContaDTO;
 import br.ce.fortaleza.hakney.sistemabancario.entity.Conta;
 
 @Repository

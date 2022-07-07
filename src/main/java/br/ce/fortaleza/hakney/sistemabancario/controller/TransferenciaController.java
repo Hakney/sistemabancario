@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.ce.fortaleza.hakney.sistemabancario.VO.ContaDTO;
+import br.ce.fortaleza.hakney.sistemabancario.DTO.ContaDTO;
 import br.ce.fortaleza.hakney.sistemabancario.entity.Transferencia;
 import br.ce.fortaleza.hakney.sistemabancario.service.TransferenciaService;
 

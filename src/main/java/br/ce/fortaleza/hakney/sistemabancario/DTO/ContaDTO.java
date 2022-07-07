@@ -1,4 +1,4 @@
-package br.ce.fortaleza.hakney.sistemabancario.VO;
+package br.ce.fortaleza.hakney.sistemabancario.DTO;
 
 import lombok.Data;
 
