@@ -1,1 +1,0 @@
-web: java -Dspring.profiles.active=heroku server.port=$PORT $JAVA_OPTS -jar target/*.war
